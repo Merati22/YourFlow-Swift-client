@@ -1,4 +1,4 @@
-n the name of Allah.
+In the name of Allah.
 
 University course project: a warehouse and task manager built with Swift.
 
